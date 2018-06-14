@@ -11,7 +11,7 @@ sys.setdefaultencoding("utf-8")
 
 import base64
 
-lines = [line.strip() for line in open('123mv.txt')]
+lines = [line.strip() for line in open('movies_list.txt')]
 
 
 
